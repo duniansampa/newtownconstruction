@@ -12,12 +12,7 @@ export default function Footer() {
                 <h2>NewTown Construction</h2>
               </div>
               <div className="col-4" id="social-icons">
-                <a
-                  href="https://www.facebook.com/margarita.esteban.9083/"
-                  target="_blank"
-                >
-                  <i className="bi bi-facebook"></i>
-                </a>
+                <i className="bi bi-facebook"></i>
                 <i className="bi bi-instagram"></i>
                 <i className="bi bi-youtube"></i>
                 <i className="bi bi-twitter"></i>
