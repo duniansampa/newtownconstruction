@@ -25,33 +25,39 @@ export default function Importants() {
               </div>
 
               <div className="col-12" id="info-numbers">
-                <div>
-                  <ul class="list-group">
-                    <li class="list-group-item">
-                      <i class="bi bi-check"></i>
-                      Interior and Exterior Remodel
-                    </li>
-                    <li class="list-group-item">
-                      <i class="bi bi-check"></i>
-                      Drywall Repair
-                    </li>
-                    <li class="list-group-item">
-                      <i class="bi bi-check"></i>
-                      Door & Trim Installation
-                    </li>
-                    <li class="list-group-item">
-                      <i class="bi bi-check"></i>
-                      Interior and Exterior Painting
-                    </li>
-                    <li class="list-group-item">
-                      <i class="bi bi-check"></i>
-                      Bathroom & Kitchen Remodel
-                    </li>
-                    <li class="list-group-item">
-                      <i class="bi bi-check"></i>
-                      And Much More
-                    </li>
-                  </ul>
+                <div className="row">
+                  <div className="col-12 col-xl-6">
+                    <ul class="list-group">
+                      <li class="list-group-item">
+                        <i class="bi bi-check"></i>
+                        Interior and Exterior Remodel
+                      </li>
+                      <li class="list-group-item">
+                        <i class="bi bi-check"></i>
+                        Drywall Repair
+                      </li>
+                      <li class="list-group-item">
+                        <i class="bi bi-check"></i>
+                        Door & Trim Installation
+                      </li>
+                    </ul>
+                  </div>
+                  <div className="col-12 col-xl-6">
+                    <ul className="list-group">
+                      <li class="list-group-item">
+                        <i class="bi bi-check"></i>
+                        Interior and Exterior Painting
+                      </li>
+                      <li class="list-group-item">
+                        <i class="bi bi-check"></i>
+                        Bathroom & Kitchen Remodel
+                      </li>
+                      <li class="list-group-item">
+                        <i class="bi bi-check"></i>
+                        And Much More
+                      </li>
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>

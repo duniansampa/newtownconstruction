@@ -87,7 +87,9 @@ export default function Carousel() {
             <div className="card text-center">
               <i className="bi bi-box primary-color"></i>
               <div className="card-body">
-                <h5 className="card-title primary-color">Quality cleaning</h5>
+                <h5 className="card-title primary-color">
+                  Residential Building
+                </h5>
                 <img
                   src="img/nt-sub-banner-1.jpeg"
                   className="d-block w-100"
@@ -100,7 +102,9 @@ export default function Carousel() {
             <div className="card text-center">
               <i className="bi bi-layers primary-color"></i>
               <div className="card-body">
-                <h5 className="card-title primary-color">Complete cleaning</h5>
+                <h5 className="card-title primary-color">
+                  Commercial Building
+                </h5>
                 <img
                   src="img/nt-sub-banner-2.jpeg"
                   className="d-block w-100"
@@ -114,7 +118,7 @@ export default function Carousel() {
               <i className="bi bi-lightning-charge"></i>
               <div className="card-body primary-color">
                 <h5 className="card-title primary-color">
-                  All types of cleaning
+                  Specialized Construction
                 </h5>
                 <img
                   src="img/nt-sub-banner-3.jpeg"

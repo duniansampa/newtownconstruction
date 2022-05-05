@@ -6,7 +6,7 @@ export default function Highlights() {
       <div className="col-12">
         <h2 className="title primary-color">Featured Works</h2>
         <p className="subtitle secondary-color">
-          See pictures of places we clean.
+          See pictures of places we construct.
         </p>
       </div>
       <div className="col-12" id="featured-images">
