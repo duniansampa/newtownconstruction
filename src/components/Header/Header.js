@@ -7,7 +7,7 @@ export default function Header() {
       id="navbar"
     >
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           <img src="img/newtown-icon.jpeg" alt="NewTown Contruction" />
         </a>
         <button
