@@ -85,7 +85,7 @@ export default function Carousel() {
         <div className="row">
           <div className="col-12 col-md-4">
             <div className="card text-center">
-              <i className="bi bi-box primary-color"></i>
+              <i class="bi bi-box-seam primary-color"></i>
               <div className="card-body">
                 <h5 className="card-title primary-color">
                   Residential Building
@@ -100,7 +100,7 @@ export default function Carousel() {
           </div>
           <div className="col-12 col-md-4">
             <div className="card text-center">
-              <i className="bi bi-layers primary-color"></i>
+              <i className="bi bi-bricks primary-color"></i>
               <div className="card-body">
                 <h5 className="card-title primary-color">
                   Commercial Building
@@ -115,7 +115,7 @@ export default function Carousel() {
           </div>
           <div className="col-12 col-md-4">
             <div className="card text-center">
-              <i className="bi bi-lightning-charge"></i>
+              <i className="bi bi-building primary-color"></i>
               <div className="card-body primary-color">
                 <h5 className="card-title primary-color">
                   Specialized Construction
