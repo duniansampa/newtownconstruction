@@ -12,10 +12,22 @@ export default function Footer() {
                 <h2>NewTown Construction</h2>
               </div>
               <div className="col-4" id="social-icons">
-                <i className="bi bi-facebook"></i>
-                <i className="bi bi-instagram"></i>
-                <i className="bi bi-youtube"></i>
-                <i className="bi bi-twitter"></i>
+                <a
+                  href="https://www.facebook.com/ramos.ramos.14418101"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <i className="bi bi-facebook"></i>
+                </a>
+                <a href="#footer">
+                  <i className="bi bi-instagram"></i>
+                </a>
+                <a href="#footer">
+                  <i className="bi bi-youtube"></i>
+                </a>
+                <a href="#footer">
+                  <i className="bi bi-twitter"></i>
+                </a>
               </div>
             </div>
           </div>
@@ -67,6 +79,7 @@ export default function Footer() {
                     <p className="secondary-color">Visa</p>
                     <p className="secondary-color">Master</p>
                     <p className="secondary-color">Check</p>
+                    <p className="secondary-color">Cash</p>
                   </div>
                 </div>
               </div>
@@ -77,7 +90,11 @@ export default function Footer() {
             <div className="row justify-content-between">
               <div className="col-12 col-md-3">
                 <p className="secondary-color">
-                  <a href="https://www.adiantex.com" target="_blank">
+                  <a
+                    href="https://www.adiantex.com"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     {" "}
                     AdianteX{" "}
                   </a>{" "}
