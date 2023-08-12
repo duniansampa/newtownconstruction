@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2656c817.css",
-    "main.js": "/static/js/main.542843b5.js",
-    "static/js/787.05dd203a.chunk.js": "/static/js/787.05dd203a.chunk.js",
-    "index.html": "/index.html",
-    "main.2656c817.css.map": "/static/css/main.2656c817.css.map",
-    "main.542843b5.js.map": "/static/js/main.542843b5.js.map",
-    "787.05dd203a.chunk.js.map": "/static/js/787.05dd203a.chunk.js.map"
+    "main.css": "/newtownconstruction/static/css/main.2656c817.css",
+    "main.js": "/newtownconstruction/static/js/main.aa167826.js",
+    "static/js/787.05dd203a.chunk.js": "/newtownconstruction/static/js/787.05dd203a.chunk.js",
+    "index.html": "/newtownconstruction/index.html",
+    "main.2656c817.css.map": "/newtownconstruction/static/css/main.2656c817.css.map",
+    "main.aa167826.js.map": "/newtownconstruction/static/js/main.aa167826.js.map",
+    "787.05dd203a.chunk.js.map": "/newtownconstruction/static/js/787.05dd203a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2656c817.css",
-    "static/js/main.542843b5.js"
+    "static/js/main.aa167826.js"
   ]
 }
